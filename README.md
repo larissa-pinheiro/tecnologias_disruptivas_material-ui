@@ -2,6 +2,8 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
+Clonado e modificado a partir do original, [acesse aqui](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas/tree/main/modulo10/template-materialui).
+
 ## Passo-a-passo para execução
 
 1. Clonar o repositório
